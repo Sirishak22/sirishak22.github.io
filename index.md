@@ -4,10 +4,9 @@ layout: default
 
 
 
-### Small image
-![](sirishak22.github.io/assets/images/IMG_9466.png)
+![](sirishak22.github.io/assets/images/my pic.jpg)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 
 # [](#header-1)Header 1
 
