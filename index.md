@@ -1,10 +1,11 @@
 ---
 layout: default
+![](sirishak22.github.io/assets/images/IMG_9466.png)
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Krishna Sirisha M
 
-There should be whitespace between paragraphs.
+
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -18,12 +19,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Small image
-
-![](sirishak22.github.io/assets/images/IMG_9466.png)
-
-
-### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
 
