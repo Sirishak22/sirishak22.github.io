@@ -20,7 +20,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Small image
 
-![](https://github.com/Sirishak22/sirishak22.github.io/blob/master/assets/images/IMG_9466.png)
+![](https://github.com/Sirishak22/sirishak22.github.io/blob/master/assets/images/octocat.png)
 
 
 ### Large image
