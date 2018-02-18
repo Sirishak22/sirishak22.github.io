@@ -7,17 +7,6 @@ layout: default
 ![](sirishak22.github.io/assets/images/my pic.jpg)
 
 
+My name is Sirisha presently enrolled for Masters Program in San Francisco State University. I have experience in Sofware Industry for 3 years and I am good at web development, possess good coding skills. Looking forward to develop more exciting and wonderful projects
 
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-![](https://guides.github.com/activities/hello-world/branching.png)
 
